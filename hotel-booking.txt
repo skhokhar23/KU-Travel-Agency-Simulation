@@ -1,0 +1,30 @@
+HiltonAmsterdamDeluxe,2025-01-01,1
+SheratonBerlinStandard,2025-01-03,2
+SheratonBerlinStandard,2025-01-02,2
+MarriottParisStandard,2025-01-01,1
+HiltonParisStandard,2025-01-03,1
+HiltonParisStandard,2025-01-02,1
+Radisson BlueRomeDeluxe,2025-01-05,2
+InterContinentalIstanbulDeluxe,2025-02-01,1
+Four SeasonsIstanbulDeluxe,2025-01-01,1
+Four SeasonsAmsterdamStandard,2025-01-08,1
+HiltonViennaDeluxe,2025-01-01,2
+AtlantisIstanbulDeluxe,2025-05-08,1
+ibis InnRomeStandard,2025-01-01,1
+Four SeasonsRomeDeluxe,2025-01-08,1
+Radisson BlueBerlinStandard,2025-01-08,1
+MarriottMadridDeluxe,2025-01-06,1
+MarriottMadridDeluxe,2025-01-05,1
+MarriottMadridDeluxe,2025-01-04,1
+MarriottMadridDeluxe,2025-01-03,1
+InterContinentalHelsinkiSuite,2025-01-22,1
+ibis InnBerlinDeluxe,2025-01-08,1
+Double Tree by HiltonBerlinDeluxe,2025-01-08,3
+ibis InnViennaStandard,2025-01-01,1
+InterContinentalAmsterdamStandard,2025-01-01,2
+SheratonMadridSuite,2025-05-08,1
+SheratonIstanbulDeluxe,2025-07-06,1
+ibis InnRomeDeluxe,2025-01-04,1
+ibis InnRomeDeluxe,2025-01-03,1
+Double Tree by HiltonBerlinStandard,2025-01-08,1
+SheratonRomeStandard,2025-01-01,1

@@ -1,0 +1,7 @@
+BerlinYellow Taxi,2025-01-01,1
+AmsterdamBlack Taxi,2025-01-01,1
+BerlinBlack Taxi,2025-01-03,1
+BerlinBlack Taxi,2025-01-02,1
+BerlinBlack Taxi,2025-01-08,1
+RomeOrange Taxi,2025-01-01,1
+ViennaOrange Taxi,2025-01-01,1
